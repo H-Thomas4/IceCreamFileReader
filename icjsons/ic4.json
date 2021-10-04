@@ -1,0 +1,9 @@
+{
+  "Name": "Chocolate Rain",
+  "Flavor": "Chocolate",
+  "Base": "Dairy Milk",
+  "Toppings": [
+    "Marshmallows",
+    "Sprinkles"
+  ]
+}

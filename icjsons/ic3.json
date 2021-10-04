@@ -1,0 +1,10 @@
+{
+  "Name": "Vanilla Craze",
+  "Flavor": "Vanilla",
+  "Base": "Almond Milk",
+  "Toppings": [
+    "Chocolate Sprinkles",
+    "Cherries",
+    "Marshmallows"
+  ]
+}
